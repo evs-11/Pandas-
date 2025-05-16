@@ -1,4 +1,4 @@
 # Pandas-
 conociendo la biblioteca
 
-#### Proyecto: en construcción
+#### Proyecto: Concluido ya se puede consultar
