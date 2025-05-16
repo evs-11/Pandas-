@@ -1,4 +1,4 @@
 # Pandas-
-conociendo las bibliotecas
+conociendo la biblioteca
 
 #### Proyecto: en construcción
